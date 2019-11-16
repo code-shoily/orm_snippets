@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d632c57-9951-482a-87fc-7d32b560dd1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/add_constraint.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat/seeds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clock/range_helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/lookups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/seeds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/services.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm_snippets/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/orm_snippets/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/services.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/services.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +78,7 @@
       <updated>1573840223522</updated>
       <workItem from="1573840264037" duration="30000" />
       <workItem from="1573840347293" duration="616000" />
-      <workItem from="1573899770996" duration="10103000" />
+      <workItem from="1573899770996" duration="11960000" />
     </task>
     <servers />
   </component>
